@@ -1,2 +1,2 @@
 # Jupyter-Portifolio
-This project describes covid 19 impact USA employment rate between races, age and educational back ground 
+This project shows the impact of recession and covid_19 on US employment 
